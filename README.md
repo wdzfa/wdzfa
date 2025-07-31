@@ -1,6 +1,6 @@
 ## Hi 👋
 
-![wadzifa](img/github-header-image.png)
+<!-- ![wadzifa](img/github-header-image.png) -->
 
 <!--
 **wdzfa/wdzfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
