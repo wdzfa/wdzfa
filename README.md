@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+![wadzifa](img/github-header-image.png)
 
 <!--
 **wdzfa/wdzfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently live in Jakarta
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on new role as **Backend Developer**
